@@ -10,7 +10,7 @@ By analyzing these features, we can model customer behavior and provide useful i
 ---
 
 ## 📂 Dataset
-We used a merged dataset (`bank-merged.csv`) combining:
+We used a merged dataset (`bank.csv`) combining:
 - **bank-full.csv** (original dataset, 45k records, 17 features)  
 - **bank-additional-full.csv** (extended dataset, 41k records, 21 features)  
 
